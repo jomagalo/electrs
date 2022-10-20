@@ -208,16 +208,16 @@ impl Config {
         config.db_dir.push(db_subdir);
 
         let default_daemon_rpc_port = match config.network {
-            Network::Bitcoin => 8332,
-            Network::Testnet => 18332,
-            Network::Regtest => 18443,
-            Network::Signet => 38332,
+            Network::Bitcoin => 8382,
+            Network::Testnet => 18382,
+            Network::Regtest => 18483,
+            Network::Signet => 38382,
         };
         let default_daemon_p2p_port = match config.network {
-            Network::Bitcoin => 8333,
-            Network::Testnet => 18333,
-            Network::Regtest => 18444,
-            Network::Signet => 38333,
+            Network::Bitcoin => 8383,
+            Network::Testnet => 18383,
+            Network::Regtest => 18484,
+            Network::Signet => 38383,
         };
         let default_electrum_port = match config.network {
             Network::Bitcoin => 50001,
