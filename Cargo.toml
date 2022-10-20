@@ -1,6 +1,6 @@
 [package]
 name = "electrs2"
-version = "1.0.0"
+version = "0.9.9"
 authors = ["Jomagalo <jomagalo@gmail.com>"]
 description = "An efficient re-implementation of Electrum Server in Rust"
 license = "MIT"
