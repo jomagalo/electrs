@@ -2,7 +2,7 @@
 name = "electrs2"
 version = "0.9.9"
 authors = ["Jomagalo <jomagalo@gmail.com>"]
-description = "An efficient re-implementation of Electrum Server in Rust"
+description = "An efficient re-implementation of Electrum Server in Rust for Bitcoin II"
 license = "MIT"
 homepage = "https://github.com/jomagalo/electrs"
 repository = "https://github.com/jomagalo/electrs"
