@@ -9,7 +9,7 @@ $ sudo apt install -y clang cmake build-essential git cargo
 $ git clone https://github.com/jomagalo/electrs 
 $ cd electrs
 $ cargo build --locked --release
-$ ./target/release/electrs --version  # should print the latest version
+$ ./target/release/electrs2 --version  # should print the latest version
 ```
 
 </details>
