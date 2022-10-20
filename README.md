@@ -1,6 +1,6 @@
 ![Logo](logo/logo.svg)
 
-# Electrum Server in Rust
+# Electrum Server in Rust for Bitcoin II
 
 [![CI](https://github.com/romanz/electrs/actions/workflows/rust.yml/badge.svg)](https://github.com/romanz/electrs/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
