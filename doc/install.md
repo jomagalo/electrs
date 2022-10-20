@@ -113,7 +113,7 @@ The easiest way is to run `cargo install cfg_me`.
 #### Download electrs
 
 ```bash
-$ git clone https://github.com/romanz/electrs
+$ git clone https://github.com/jomagalo/electrs
 $ cd electrs
 ```
 
