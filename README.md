@@ -51,7 +51,7 @@ which is better optimized for public usage at the cost of consuming *significant
 ## Altcoins
 
 Altcoins are **not supported**!
-Forks of Bitcoin codebase that relax the consensus rules (hard forks) are also **not supported**.
+Forks of Bitcoin II codebase that relax the consensus rules (hard forks) are also **not supported**.
 
 You may be able to find a fork of electrs that does support them, look around or make your own, just don't file issues/PRs here.
 
